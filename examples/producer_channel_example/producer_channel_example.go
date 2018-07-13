@@ -19,7 +19,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/confluentinc/confluent-kafka-go/kafka"
+	"github.com/peernova-private/confluent-kafka-go/kafka"
 	"os"
 )
 
